@@ -1,2 +1,1 @@
-# git-proyecto
-este es un proyecto de prueba con git
+# analisis_de_algoritmos
